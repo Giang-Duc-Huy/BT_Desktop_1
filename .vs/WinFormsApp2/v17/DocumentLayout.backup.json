@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "D:\\BT_Desktop_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai10.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai10.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|D:\\BT_Desktop_1\\winformsapp2\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|D:\\BT_Desktop_1\\winformsapp2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,7 +63,7 @@
       "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|d:\\bt_desktop_1\\winformsapp2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|D:\\BT_Desktop_1\\winformsapp2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C00319C-0A94-4815-8C63-203FD9A8AFF7}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -90,8 +110,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai9.cs",
+              "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai9.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Bai9.cs",
+              "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai9.cs",
+              "RelativeToolTip": "WinFormsApp2\\Bai9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:19:32.868Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai10.cs",
+              "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai10.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Bai10.cs",
+              "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai10.cs",
+              "RelativeToolTip": "WinFormsApp2\\Bai10.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:42:13.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai10.cs [Design]",
+              "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai10.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Bai10.cs",
+              "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai10.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Bai10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:38:49.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai10.Designer.cs",
+              "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai10.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Bai10.Designer.cs",
+              "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai10.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\Bai10.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAtwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:38:28.931Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -106,7 +178,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Bai9.cs [Design]",
+              "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai9.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Bai9.cs",
+              "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai9.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Bai9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:18:40.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Bai8.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai8.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai8.cs",
@@ -119,19 +207,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Bai8.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai8.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai8.cs",
               "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai8.cs [Design]",
               "RelativeToolTip": "WinFormsApp2\\Bai8.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T17:30:08.5Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-27T17:30:08.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Bai7.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai7.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai7.cs",
@@ -144,19 +231,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Bai7.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai7.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai7.cs",
               "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai7.cs [Design]",
               "RelativeToolTip": "WinFormsApp2\\Bai7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T17:04:20.587Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-27T17:04:20.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Bai6.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai6.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai6.cs",
@@ -169,19 +255,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Bai4.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai4.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai4.cs",
               "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai4.cs [Design]",
               "RelativeToolTip": "WinFormsApp2\\Bai4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:56:16.603Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-27T16:56:16.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Bai4.Designer.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai4.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai4.Designer.cs",
@@ -189,12 +274,11 @@
               "RelativeToolTip": "WinFormsApp2\\Bai4.Designer.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAASwEoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:54:36.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:54:36.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Bai5.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai5.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai5.cs",
@@ -202,12 +286,11 @@
               "RelativeToolTip": "WinFormsApp2\\Bai5.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:26:04.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:26:04.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "WinFormsApp2.csproj",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\WinFormsApp2.csproj",
               "RelativeDocumentMoniker": "WinFormsApp2\\WinFormsApp2.csproj",
@@ -219,23 +302,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Bai6.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai6.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai6.cs",
               "ToolTip": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai6.cs [Design]",
               "RelativeToolTip": "WinFormsApp2\\Bai6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:04:03.614Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-03-27T16:04:03.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Bai4.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai4.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai4.cs",
@@ -243,12 +321,11 @@
               "RelativeToolTip": "WinFormsApp2\\Bai4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:53:25.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T12:53:25.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Bai6.Designer.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai6.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai6.Designer.cs",
@@ -256,12 +333,11 @@
               "RelativeToolTip": "WinFormsApp2\\Bai6.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:03:52.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:03:52.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Bai3.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai3.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai3.cs",
@@ -271,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Bai3.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai3.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai3.cs",
@@ -283,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Bai2.Designer.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai2.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai2.Designer.cs",
@@ -295,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Bai2.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai2.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai2.cs",
@@ -308,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Bai2.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Bai2.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Bai2.cs",
@@ -318,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
@@ -328,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.Designer.cs",
@@ -340,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\BT_Desktop_1\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
