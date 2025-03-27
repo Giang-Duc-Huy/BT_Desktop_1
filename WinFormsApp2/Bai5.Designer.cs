@@ -32,21 +32,21 @@
             txtNhapTen = new TextBox();
             label1 = new Label();
             panel2 = new Panel();
+            lblLapTrinh = new Label();
             button1 = new Button();
             label2 = new Label();
             panel3 = new Panel();
+            radRed = new RadioButton();
             label4 = new Label();
-            radioButton4 = new RadioButton();
-            radioButton3 = new RadioButton();
-            radioButton2 = new RadioButton();
-            this.radRed = new RadioButton();
+            radBlack = new RadioButton();
+            radBlue = new RadioButton();
+            radGreen = new RadioButton();
             label3 = new Label();
             chkBold = new CheckBox();
-            checkBox2 = new CheckBox();
+            chkItalic = new CheckBox();
             label5 = new Label();
             panel4 = new Panel();
-            checkBox3 = new CheckBox();
-            lblLapTrinh = new Label();
+            chkUnderline = new CheckBox();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             panel3.SuspendLayout();
@@ -90,6 +90,13 @@
             panel2.Size = new Size(540, 65);
             panel2.TabIndex = 2;
             // 
+            // lblLapTrinh
+            // 
+            lblLapTrinh.Location = new Point(174, 13);
+            lblLapTrinh.Name = "lblLapTrinh";
+            lblLapTrinh.Size = new Size(247, 41);
+            lblLapTrinh.TabIndex = 3;
+            // 
             // button1
             // 
             button1.FlatAppearance.BorderColor = Color.Black;
@@ -116,15 +123,28 @@
             // panel3
             // 
             panel3.BackColor = SystemColors.ActiveCaption;
+            panel3.Controls.Add(radRed);
             panel3.Controls.Add(label4);
-            panel3.Controls.Add(radioButton4);
-            panel3.Controls.Add(radioButton3);
-            panel3.Controls.Add(radioButton2);
-            panel3.Controls.Add(this.radRed);
+            panel3.Controls.Add(radBlack);
+            panel3.Controls.Add(radBlue);
+            panel3.Controls.Add(radGreen);
             panel3.Location = new Point(35, 107);
             panel3.Name = "panel3";
             panel3.Size = new Size(186, 245);
             panel3.TabIndex = 3;
+            // 
+            // radRed
+            // 
+            radRed.AutoSize = true;
+            radRed.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radRed.ForeColor = Color.Red;
+            radRed.Location = new Point(17, 33);
+            radRed.Name = "radRed";
+            radRed.Size = new Size(70, 29);
+            radRed.TabIndex = 6;
+            radRed.TabStop = true;
+            radRed.Text = "Red";
+            radRed.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -136,56 +156,43 @@
             label4.TabIndex = 5;
             label4.Text = "Color";
             // 
-            // radioButton4
+            // radBlack
             // 
-            radioButton4.AutoSize = true;
-            radioButton4.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton4.Location = new Point(17, 193);
-            radioButton4.Name = "radioButton4";
-            radioButton4.Size = new Size(83, 29);
-            radioButton4.TabIndex = 3;
-            radioButton4.TabStop = true;
-            radioButton4.Text = "Black";
-            radioButton4.UseVisualStyleBackColor = true;
+            radBlack.AutoSize = true;
+            radBlack.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radBlack.Location = new Point(17, 193);
+            radBlack.Name = "radBlack";
+            radBlack.Size = new Size(83, 29);
+            radBlack.TabIndex = 3;
+            radBlack.TabStop = true;
+            radBlack.Text = "Black";
+            radBlack.UseVisualStyleBackColor = true;
             // 
-            // radioButton3
+            // radBlue
             // 
-            radioButton3.AutoSize = true;
-            radioButton3.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton3.ForeColor = Color.Blue;
-            radioButton3.Location = new Point(17, 138);
-            radioButton3.Name = "radioButton3";
-            radioButton3.Size = new Size(75, 29);
-            radioButton3.TabIndex = 2;
-            radioButton3.TabStop = true;
-            radioButton3.Text = "Blue";
-            radioButton3.UseVisualStyleBackColor = true;
+            radBlue.AutoSize = true;
+            radBlue.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radBlue.ForeColor = Color.Blue;
+            radBlue.Location = new Point(17, 138);
+            radBlue.Name = "radBlue";
+            radBlue.Size = new Size(75, 29);
+            radBlue.TabIndex = 2;
+            radBlue.TabStop = true;
+            radBlue.Text = "Blue";
+            radBlue.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // radGreen
             // 
-            radioButton2.AutoSize = true;
-            radioButton2.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton2.ForeColor = Color.Lime;
-            radioButton2.Location = new Point(17, 85);
-            radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(88, 29);
-            radioButton2.TabIndex = 1;
-            radioButton2.TabStop = true;
-            radioButton2.Text = "Green";
-            radioButton2.UseVisualStyleBackColor = true;
-            // 
-            // radRed
-            // 
-            this.radRed.AutoSize = true;
-            this.radRed.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            this.radRed.ForeColor = Color.Red;
-            this.radRed.Location = new Point(17, 32);
-            this.radRed.Name = "radRed";
-            this.radRed.Size = new Size(70, 29);
-            this.radRed.TabIndex = 0;
-            this.radRed.TabStop = true;
-            this.radRed.Text = "Red";
-            this.radRed.UseVisualStyleBackColor = true;
+            radGreen.AutoSize = true;
+            radGreen.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radGreen.ForeColor = Color.Lime;
+            radGreen.Location = new Point(17, 85);
+            radGreen.Name = "radGreen";
+            radGreen.Size = new Size(88, 29);
+            radGreen.TabIndex = 1;
+            radGreen.TabStop = true;
+            radGreen.Text = "Green";
+            radGreen.UseVisualStyleBackColor = true;
             // 
             // label3
             // 
@@ -209,17 +216,17 @@
             chkBold.Text = "Đậm Bold";
             chkBold.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // chkItalic
             // 
-            checkBox2.AutoSize = true;
-            checkBox2.Font = new Font("Segoe UI", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            checkBox2.ForeColor = Color.Blue;
-            checkBox2.Location = new Point(15, 83);
-            checkBox2.Name = "checkBox2";
-            checkBox2.Size = new Size(160, 29);
-            checkBox2.TabIndex = 6;
-            checkBox2.Text = "Nghiêng Italic";
-            checkBox2.UseVisualStyleBackColor = true;
+            chkItalic.AutoSize = true;
+            chkItalic.Font = new Font("Segoe UI", 9F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            chkItalic.ForeColor = Color.Blue;
+            chkItalic.Location = new Point(15, 83);
+            chkItalic.Name = "chkItalic";
+            chkItalic.Size = new Size(160, 29);
+            chkItalic.TabIndex = 6;
+            chkItalic.Text = "Nghiêng Italic";
+            chkItalic.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
@@ -234,9 +241,9 @@
             // 
             panel4.BackColor = Color.Bisque;
             panel4.BorderStyle = BorderStyle.Fixed3D;
-            panel4.Controls.Add(checkBox3);
+            panel4.Controls.Add(chkUnderline);
             panel4.Controls.Add(label5);
-            panel4.Controls.Add(checkBox2);
+            panel4.Controls.Add(chkItalic);
             panel4.Controls.Add(chkBold);
             panel4.Controls.Add(label3);
             panel4.Location = new Point(290, 107);
@@ -244,24 +251,17 @@
             panel4.Size = new Size(229, 245);
             panel4.TabIndex = 4;
             // 
-            // checkBox3
+            // chkUnderline
             // 
-            checkBox3.AutoSize = true;
-            checkBox3.Font = new Font("Segoe UI", 9F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
-            checkBox3.ForeColor = Color.Blue;
-            checkBox3.Location = new Point(15, 137);
-            checkBox3.Name = "checkBox3";
-            checkBox3.Size = new Size(129, 29);
-            checkBox3.TabIndex = 8;
-            checkBox3.Text = "Gạch Chân";
-            checkBox3.UseVisualStyleBackColor = true;
-            // 
-            // lblLapTrinh
-            // 
-            lblLapTrinh.Location = new Point(174, 13);
-            lblLapTrinh.Name = "lblLapTrinh";
-            lblLapTrinh.Size = new Size(247, 41);
-            lblLapTrinh.TabIndex = 3;
+            chkUnderline.AutoSize = true;
+            chkUnderline.Font = new Font("Segoe UI", 9F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
+            chkUnderline.ForeColor = Color.Blue;
+            chkUnderline.Location = new Point(15, 137);
+            chkUnderline.Name = "chkUnderline";
+            chkUnderline.Size = new Size(129, 29);
+            chkUnderline.TabIndex = 8;
+            chkUnderline.Text = "Gạch Chân";
+            chkUnderline.UseVisualStyleBackColor = true;
             // 
             // Bai5
             // 
@@ -274,6 +274,7 @@
             Controls.Add(panel1);
             Name = "Bai5";
             Text = "Định dạng(Formater)";
+            Load += Bai5_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panel2.ResumeLayout(false);
@@ -294,18 +295,19 @@
         private TextBox textBox2;
         private Label label2;
         private Panel panel3;
-        private RadioButton radioButton2;
+        private RadioButton radGreen;
         private RadioButton radioButton1;
-        private RadioButton radioButton4;
-        private RadioButton radioButton3;
+        private RadioButton radBlack;
+        private RadioButton radBlue;
         private Button button1;
         private Label label4;
         private Label label3;
         private CheckBox chkBold;
-        private CheckBox checkBox2;
+        private CheckBox chkItalic;
         private Label label5;
         private Panel panel4;
-        private CheckBox checkBox3;
+        private CheckBox chkUnderline;
         private Label lblLapTrinh;
+        private RadioButton radRed;
     }
 }

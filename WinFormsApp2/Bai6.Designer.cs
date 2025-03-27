@@ -31,31 +31,31 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Bai6));
             groupBox1 = new GroupBox();
             panel2 = new Panel();
-            textBox2 = new TextBox();
+            txtMessage = new TextBox();
             label2 = new Label();
             panel1 = new Panel();
-            textBox1 = new TextBox();
+            txtName = new TextBox();
             label1 = new Label();
             groupBox2 = new GroupBox();
-            radioButton4 = new RadioButton();
-            radioButton3 = new RadioButton();
-            radioButton2 = new RadioButton();
-            radioButton1 = new RadioButton();
-            panel3 = new Panel();
+            radBlack = new RadioButton();
+            radBlue = new RadioButton();
+            radGreen = new RadioButton();
+            radRed = new RadioButton();
+            lblMessage = new Panel();
             groupBox3 = new GroupBox();
-            button3 = new Button();
-            button2 = new Button();
-            button1 = new Button();
-            checkBox1 = new CheckBox();
-            pictureBox1 = new PictureBox();
-            pictureBox2 = new PictureBox();
+            btnExit = new Button();
+            btnClear = new Button();
+            btnDisplay = new Button();
+            chkVisible = new CheckBox();
+            picSmall = new PictureBox();
+            picBig = new PictureBox();
             groupBox1.SuspendLayout();
             panel2.SuspendLayout();
             panel1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)picSmall).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)picBig).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
@@ -72,20 +72,20 @@
             // 
             // panel2
             // 
-            panel2.Controls.Add(textBox2);
+            panel2.Controls.Add(txtMessage);
             panel2.Controls.Add(label2);
             panel2.Location = new Point(54, 89);
             panel2.Name = "panel2";
             panel2.Size = new Size(659, 38);
             panel2.TabIndex = 2;
             // 
-            // textBox2
+            // txtMessage
             // 
-            textBox2.BackColor = Color.FromArgb(255, 224, 192);
-            textBox2.Location = new Point(136, 4);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(520, 31);
-            textBox2.TabIndex = 1;
+            txtMessage.BackColor = Color.FromArgb(255, 224, 192);
+            txtMessage.Location = new Point(136, 4);
+            txtMessage.Name = "txtMessage";
+            txtMessage.Size = new Size(520, 31);
+            txtMessage.TabIndex = 1;
             // 
             // label2
             // 
@@ -98,20 +98,20 @@
             // 
             // panel1
             // 
-            panel1.Controls.Add(textBox1);
+            panel1.Controls.Add(txtName);
             panel1.Controls.Add(label1);
             panel1.Location = new Point(54, 30);
             panel1.Name = "panel1";
             panel1.Size = new Size(659, 38);
             panel1.TabIndex = 0;
             // 
-            // textBox1
+            // txtName
             // 
-            textBox1.BackColor = Color.FromArgb(255, 224, 192);
-            textBox1.Location = new Point(136, 4);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(520, 31);
-            textBox1.TabIndex = 1;
+            txtName.BackColor = Color.FromArgb(255, 224, 192);
+            txtName.Location = new Point(136, 4);
+            txtName.Name = "txtName";
+            txtName.Size = new Size(520, 31);
+            txtName.TabIndex = 1;
             // 
             // label1
             // 
@@ -125,10 +125,10 @@
             // groupBox2
             // 
             groupBox2.BackColor = SystemColors.ActiveCaption;
-            groupBox2.Controls.Add(radioButton4);
-            groupBox2.Controls.Add(radioButton3);
-            groupBox2.Controls.Add(radioButton2);
-            groupBox2.Controls.Add(radioButton1);
+            groupBox2.Controls.Add(radBlack);
+            groupBox2.Controls.Add(radBlue);
+            groupBox2.Controls.Add(radGreen);
+            groupBox2.Controls.Add(radRed);
             groupBox2.FlatStyle = FlatStyle.Flat;
             groupBox2.Location = new Point(22, 213);
             groupBox2.Name = "groupBox2";
@@ -137,71 +137,71 @@
             groupBox2.TabStop = false;
             groupBox2.Text = "Color";
             // 
-            // radioButton4
+            // radBlack
             // 
-            radioButton4.AutoSize = true;
-            radioButton4.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton4.Location = new Point(39, 176);
-            radioButton4.Name = "radioButton4";
-            radioButton4.Size = new Size(83, 29);
-            radioButton4.TabIndex = 3;
-            radioButton4.TabStop = true;
-            radioButton4.Text = "Black";
-            radioButton4.UseVisualStyleBackColor = true;
+            radBlack.AutoSize = true;
+            radBlack.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radBlack.Location = new Point(39, 176);
+            radBlack.Name = "radBlack";
+            radBlack.Size = new Size(83, 29);
+            radBlack.TabIndex = 3;
+            radBlack.TabStop = true;
+            radBlack.Text = "Black";
+            radBlack.UseVisualStyleBackColor = true;
             // 
-            // radioButton3
+            // radBlue
             // 
-            radioButton3.AutoSize = true;
-            radioButton3.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton3.ForeColor = Color.Blue;
-            radioButton3.Location = new Point(39, 128);
-            radioButton3.Name = "radioButton3";
-            radioButton3.Size = new Size(75, 29);
-            radioButton3.TabIndex = 2;
-            radioButton3.TabStop = true;
-            radioButton3.Text = "Blue";
-            radioButton3.UseVisualStyleBackColor = true;
+            radBlue.AutoSize = true;
+            radBlue.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radBlue.ForeColor = Color.Blue;
+            radBlue.Location = new Point(39, 128);
+            radBlue.Name = "radBlue";
+            radBlue.Size = new Size(75, 29);
+            radBlue.TabIndex = 2;
+            radBlue.TabStop = true;
+            radBlue.Text = "Blue";
+            radBlue.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // radGreen
             // 
-            radioButton2.AutoSize = true;
-            radioButton2.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton2.ForeColor = Color.Lime;
-            radioButton2.Location = new Point(39, 83);
-            radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(88, 29);
-            radioButton2.TabIndex = 1;
-            radioButton2.TabStop = true;
-            radioButton2.Text = "Green";
-            radioButton2.UseVisualStyleBackColor = true;
+            radGreen.AutoSize = true;
+            radGreen.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radGreen.ForeColor = Color.Lime;
+            radGreen.Location = new Point(34, 83);
+            radGreen.Name = "radGreen";
+            radGreen.Size = new Size(88, 29);
+            radGreen.TabIndex = 1;
+            radGreen.TabStop = true;
+            radGreen.Text = "Green";
+            radGreen.UseVisualStyleBackColor = true;
             // 
-            // radioButton1
+            // radRed
             // 
-            radioButton1.AutoSize = true;
-            radioButton1.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            radioButton1.ForeColor = Color.Red;
-            radioButton1.Location = new Point(39, 39);
-            radioButton1.Name = "radioButton1";
-            radioButton1.Size = new Size(70, 29);
-            radioButton1.TabIndex = 0;
-            radioButton1.TabStop = true;
-            radioButton1.Text = "Red";
-            radioButton1.UseVisualStyleBackColor = true;
+            radRed.AutoSize = true;
+            radRed.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
+            radRed.ForeColor = Color.Red;
+            radRed.Location = new Point(39, 39);
+            radRed.Name = "radRed";
+            radRed.Size = new Size(70, 29);
+            radRed.TabIndex = 0;
+            radRed.TabStop = true;
+            radRed.Text = "Red";
+            radRed.UseVisualStyleBackColor = true;
             // 
-            // panel3
+            // lblMessage
             // 
-            panel3.BackColor = Color.FromArgb(255, 192, 192);
-            panel3.Location = new Point(-14, 494);
-            panel3.Name = "panel3";
-            panel3.Size = new Size(819, 49);
-            panel3.TabIndex = 2;
+            lblMessage.BackColor = Color.FromArgb(255, 192, 192);
+            lblMessage.Location = new Point(-14, 494);
+            lblMessage.Name = "lblMessage";
+            lblMessage.Size = new Size(819, 49);
+            lblMessage.TabIndex = 2;
             // 
             // groupBox3
             // 
             groupBox3.BackColor = SystemColors.ActiveCaption;
-            groupBox3.Controls.Add(button3);
-            groupBox3.Controls.Add(button2);
-            groupBox3.Controls.Add(button1);
+            groupBox3.Controls.Add(btnExit);
+            groupBox3.Controls.Add(btnClear);
+            groupBox3.Controls.Add(btnDisplay);
             groupBox3.FlatStyle = FlatStyle.Popup;
             groupBox3.Location = new Point(526, 213);
             groupBox3.Name = "groupBox3";
@@ -210,76 +210,76 @@
             groupBox3.TabStop = false;
             groupBox3.Text = "Action";
             // 
-            // button3
+            // btnExit
             // 
-            button3.BackColor = SystemColors.ControlLight;
-            button3.Location = new Point(70, 174);
-            button3.Name = "button3";
-            button3.Size = new Size(112, 46);
-            button3.TabIndex = 2;
-            button3.Text = "E&xit";
-            button3.UseVisualStyleBackColor = false;
+            btnExit.BackColor = SystemColors.ControlLight;
+            btnExit.Location = new Point(70, 174);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(112, 46);
+            btnExit.TabIndex = 2;
+            btnExit.Text = "E&xit";
+            btnExit.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // btnClear
             // 
-            button2.BackColor = SystemColors.ControlLight;
-            button2.Location = new Point(70, 103);
-            button2.Name = "button2";
-            button2.Size = new Size(112, 51);
-            button2.TabIndex = 1;
-            button2.Text = "&Clear";
-            button2.UseVisualStyleBackColor = false;
+            btnClear.BackColor = SystemColors.ControlLight;
+            btnClear.Location = new Point(70, 103);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(112, 51);
+            btnClear.TabIndex = 1;
+            btnClear.Text = "&Clear";
+            btnClear.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // btnDisplay
             // 
-            button1.BackColor = SystemColors.ControlLight;
-            button1.Location = new Point(70, 30);
-            button1.Name = "button1";
-            button1.Size = new Size(112, 53);
-            button1.TabIndex = 0;
-            button1.Text = "&Display";
-            button1.UseVisualStyleBackColor = false;
+            btnDisplay.BackColor = SystemColors.ControlLight;
+            btnDisplay.Location = new Point(70, 30);
+            btnDisplay.Name = "btnDisplay";
+            btnDisplay.Size = new Size(112, 53);
+            btnDisplay.TabIndex = 0;
+            btnDisplay.Text = "&Display";
+            btnDisplay.UseVisualStyleBackColor = false;
             // 
-            // checkBox1
+            // chkVisible
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(312, 213);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(164, 29);
-            checkBox1.TabIndex = 3;
-            checkBox1.Text = "Message Visible";
-            checkBox1.UseVisualStyleBackColor = true;
+            chkVisible.AutoSize = true;
+            chkVisible.Location = new Point(312, 213);
+            chkVisible.Name = "chkVisible";
+            chkVisible.Size = new Size(164, 29);
+            chkVisible.TabIndex = 3;
+            chkVisible.Text = "Message Visible";
+            chkVisible.UseVisualStyleBackColor = true;
             // 
-            // pictureBox1
+            // picSmall
             // 
-            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
-            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-            pictureBox1.Location = new Point(354, 248);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(108, 115);
-            pictureBox1.TabIndex = 4;
-            pictureBox1.TabStop = false;
+            picSmall.BackgroundImage = (Image)resources.GetObject("picSmall.BackgroundImage");
+            picSmall.BackgroundImageLayout = ImageLayout.Stretch;
+            picSmall.Location = new Point(354, 248);
+            picSmall.Name = "picSmall";
+            picSmall.Size = new Size(108, 115);
+            picSmall.TabIndex = 4;
+            picSmall.TabStop = false;
             // 
-            // pictureBox2
+            // picBig
             // 
-            pictureBox2.BackgroundImage = (Image)resources.GetObject("pictureBox2.BackgroundImage");
-            pictureBox2.BackgroundImageLayout = ImageLayout.Stretch;
-            pictureBox2.Location = new Point(312, 316);
-            pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(184, 164);
-            pictureBox2.TabIndex = 5;
-            pictureBox2.TabStop = false;
+            picBig.BackgroundImage = (Image)resources.GetObject("picBig.BackgroundImage");
+            picBig.BackgroundImageLayout = ImageLayout.Stretch;
+            picBig.Location = new Point(312, 316);
+            picBig.Name = "picBig";
+            picBig.Size = new Size(184, 164);
+            picBig.TabIndex = 5;
+            picBig.TabStop = false;
             // 
             // Bai6
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 542);
-            Controls.Add(pictureBox2);
-            Controls.Add(pictureBox1);
-            Controls.Add(checkBox1);
+            Controls.Add(picBig);
+            Controls.Add(picSmall);
+            Controls.Add(chkVisible);
             Controls.Add(groupBox3);
-            Controls.Add(panel3);
+            Controls.Add(lblMessage);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "Bai6";
@@ -292,8 +292,8 @@
             groupBox2.ResumeLayout(false);
             groupBox2.PerformLayout();
             groupBox3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)picSmall).EndInit();
+            ((System.ComponentModel.ISupportInitialize)picBig).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -302,23 +302,23 @@
 
         private GroupBox groupBox1;
         private Panel panel2;
-        private TextBox textBox2;
+        private TextBox txtMessage;
         private Label label2;
         private Panel panel1;
-        private TextBox textBox1;
+        private TextBox txtName;
         private Label label1;
         private GroupBox groupBox2;
-        private Panel panel3;
+        private Panel lblMessage;
         private GroupBox groupBox3;
-        private RadioButton radioButton4;
-        private RadioButton radioButton3;
-        private RadioButton radioButton2;
-        private RadioButton radioButton1;
-        private Button button3;
-        private Button button2;
-        private Button button1;
-        private CheckBox checkBox1;
-        private PictureBox pictureBox1;
-        private PictureBox pictureBox2;
+        private RadioButton radBlack;
+        private RadioButton radBlue;
+        private RadioButton radGreen;
+        private RadioButton radRed;
+        private Button btnExit;
+        private Button btnClear;
+        private Button btnDisplay;
+        private CheckBox chkVisible;
+        private PictureBox picSmall;
+        private PictureBox picBig;
     }
 }

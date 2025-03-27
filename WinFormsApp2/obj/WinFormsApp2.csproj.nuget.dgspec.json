@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "D:\\BT_Desktop_1\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "D:\\BT_Desktop_1\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "D:\\BT_Desktop_1\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "D:\\BT_Desktop_1\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "outputPath": "D:\\BT_Desktop_1\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },

@@ -61,7 +61,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(445, 31);
             textBox1.TabIndex = 1;
-            textBox1.TextChanged += textBox1_TextChanged;
+            //textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label1
             // 
@@ -72,7 +72,7 @@
             label1.Size = new Size(109, 25);
             label1.TabIndex = 0;
             label1.Text = "Tiền qui đổi:";
-            label1.Click += label1_Click;
+            //label1.Click += label1_Click;
             // 
             // panel2
             // 
@@ -99,7 +99,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(445, 31);
             textBox2.TabIndex = 1;
-            textBox2.TextChanged += textBox2_TextChanged;
+            //textBox2.TextChanged += textBox2_TextChanged;
             // 
             // label3
             // 
@@ -121,8 +121,8 @@
             button1.TabIndex = 3;
             button1.Text = "VNDtoUSD";
             button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
-            // 
+            //button1.Click += button1_Click;
+            //// 
             // button2
             // 
             button2.FlatStyle = FlatStyle.System;
@@ -132,7 +132,7 @@
             button2.TabIndex = 4;
             button2.Text = "VNDtoEUR";
             button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            //button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -143,7 +143,7 @@
             button3.TabIndex = 5;
             button3.Text = "UXDtoVND";
             button3.UseVisualStyleBackColor = true;
-            button3.Click += button3_Click;
+            //button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -154,7 +154,7 @@
             button4.TabIndex = 6;
             button4.Text = "EURtoVND";
             button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            //button4.Click += button4_Click;
             // 
             // errorProvider1
             // 
